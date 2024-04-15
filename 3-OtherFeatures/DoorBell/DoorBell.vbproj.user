@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DoorBell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoorbellMessageAccept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoorbellMessageReject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoorbellVoiceAccept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoorbellVoiceReject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LockDoorS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainScreen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OurgoingDoorResponse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutgoingDoorbell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutGoingDoorbellConfirmation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutgoingDoorConfirmationCancel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Unlock-LockDoor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

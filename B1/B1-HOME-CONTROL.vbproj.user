@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Activities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChooseRoomLights.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LightForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LightRow.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LightsAndWindowsBlinds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Removed_SpecificRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Removed_SpecificRoomWindows.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WindowBlindMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WindowRow.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WindowSubMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

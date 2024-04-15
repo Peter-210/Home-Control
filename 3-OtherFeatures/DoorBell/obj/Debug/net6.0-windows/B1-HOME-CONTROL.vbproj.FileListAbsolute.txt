@@ -1,0 +1,79 @@
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.AssemblyReference.cache
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.GenerateResource.cache
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfoInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfo.vb
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.CoreCompileInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\bin\Debug\net6.0-windows\B1-HOME-CONTROL.exe
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\bin\Debug\net6.0-windows\B1-HOME-CONTROL.deps.json
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\bin\Debug\net6.0-windows\B1-HOME-CONTROL.runtimeconfig.json
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\bin\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\bin\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\refint\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1-HOME-CONTROL.genruntimeconfig.cache
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\ref\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+C:\Users\tomto\source\repos\CPS613-HCI\project-1\B1-HOME-CONTROL\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\bin\Debug\net6.0-windows\B1-HOME-CONTROL.exe
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\bin\Debug\net6.0-windows\B1-HOME-CONTROL.deps.json
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\bin\Debug\net6.0-windows\B1-HOME-CONTROL.runtimeconfig.json
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\bin\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\bin\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.AssemblyReference.cache
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.GenerateResource.cache
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfoInputs.cache
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfo.vb
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.CoreCompileInputs.cache
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\refint\B1-HOME-CONTROL.dll
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1-HOME-CONTROL.genruntimeconfig.cache
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\ref\B1-HOME-CONTROL.dll
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorBell.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageAccept.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageReject.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceAccept.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceReject.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorbell.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutGoingDoorbellConfirmation.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OurgoingDoorResponse.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorConfirmationCancel.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Unlock_LockDoor.resources
+C:\Users\Rjayel\Documents\Ryerson\Fall 2022\CPS613\P1\b1-homecontrol\B1\obj\Debug\net6.0-windows\B1_HOME_CONTROL.LockDoorS.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.AssemblyReference.cache
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\refint\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\bin\Debug\net6.0-windows\B1-HOME-CONTROL.exe
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\bin\Debug\net6.0-windows\B1-HOME-CONTROL.deps.json
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\bin\Debug\net6.0-windows\B1-HOME-CONTROL.runtimeconfig.json
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\bin\Debug\net6.0-windows\B1-HOME-CONTROL.dll
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\bin\Debug\net6.0-windows\B1-HOME-CONTROL.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorBell.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageAccept.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageReject.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceAccept.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceReject.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.LockDoorS.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OurgoingDoorResponse.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorbell.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutGoingDoorbellConfirmation.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorConfirmationCancel.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Unlock_LockDoor.resources
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.GenerateResource.cache
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfoInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.AssemblyInfo.vb
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.vbproj.CoreCompileInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\B1-HOME-CONTROL.genruntimeconfig.cache
+C:\Users\tomto\source\repos\CPS613-HCI\ralph-james-files-original\Comms-DoorBell\obj\Debug\net6.0-windows\ref\B1-HOME-CONTROL.dll

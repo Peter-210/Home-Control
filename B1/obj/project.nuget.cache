@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6d9qL5obZNZDbf6UhE748+BOLa72KVUblsyBcmr2MzQY9/UQSOJT5pBRENwbCJ2Fe/BAyxJw53cRfFlsYC5XNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b1ank\\Desktop\\Github\\Home-Control\\B1\\B1-HOME-CONTROL.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
