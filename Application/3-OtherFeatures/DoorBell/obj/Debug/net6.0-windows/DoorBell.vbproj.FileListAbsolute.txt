@@ -1,0 +1,90 @@
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.exe
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.deps.json
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.runtimeconfig.json
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.dll
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.AssemblyReference.cache
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorBell.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageAccept.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageReject.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceAccept.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceReject.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.LockDoorS.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OurgoingDoorResponse.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorbell.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutGoingDoorbellConfirmation.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorConfirmationCancel.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Unlock_LockDoor.resources
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.GenerateResource.cache
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfoInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfo.vb
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.CoreCompileInputs.cache
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.dll
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\refint\DoorBell.dll
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.pdb
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.genruntimeconfig.cache
+C:\Users\tomto\source\repos\CPS613-HCI\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\ref\DoorBell.dll
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.exe
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.deps.json
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.runtimeconfig.json
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.dll
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.pdb
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.AssemblyReference.cache
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorBell.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageAccept.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageReject.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceAccept.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceReject.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.LockDoorS.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OurgoingDoorResponse.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorbell.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutGoingDoorbellConfirmation.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorConfirmationCancel.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Unlock_LockDoor.resources
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.GenerateResource.cache
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfoInputs.cache
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfo.vb
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.CoreCompileInputs.cache
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.dll
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\refint\DoorBell.dll
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.pdb
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.genruntimeconfig.cache
+C:\Users\jayho\Documents\School\4th Year\CPS 613\B1\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\ref\DoorBell.dll
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.exe
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.deps.json
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.runtimeconfig.json
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.dll
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\bin\Debug\net6.0-windows\DoorBell.pdb
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorBell.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageAccept.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellMessageReject.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceAccept.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.DoorbellVoiceReject.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Form1.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.LockDoorS.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.MainScreen.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Resources.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OurgoingDoorResponse.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorbell.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutGoingDoorbellConfirmation.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.OutgoingDoorConfirmationCancel.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\B1_HOME_CONTROL.Unlock_LockDoor.resources
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.GenerateResource.cache
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfoInputs.cache
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.AssemblyInfo.vb
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.vbproj.CoreCompileInputs.cache
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.dll
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\refint\DoorBell.dll
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.pdb
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.genruntimeconfig.cache
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\ref\DoorBell.dll
+E:\Downloads\B1-Final\3-OtherFeatures\DoorBell\obj\Debug\net6.0-windows\DoorBell.sourcelink.json

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfdfJUhWk9YsRPmk+LDrOB7zqueLTghxekQ6nXW2q9QLwvC+2O4wf/zOTWI84fxO9B4b7pudZWAPfi+H1zcjeg==",
+  "success": true,
+  "projectFilePath": "E:\\Downloads\\B1-Final\\3-OtherFeatures\\Elevator\\Elevator\\Elevator.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\b1ank\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
