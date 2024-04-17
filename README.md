@@ -2,8 +2,6 @@
 
 ## Video Demonstration of Usability Testing
 
-The final product will be different from the demo since the purpose of this video was to test our high-fidelity electronic prototype and see what improvements we can make based on the results of the live testing. These observations were used to change the layout of the application GUI.\
-
 [![CalmVR Demonstration Video](https://img.youtube.com/vi/cE7G7QWEfh4/0.jpg)](https://www.youtube.com/watch?v=cE7G7QWEfh4)\
 Youtube Link: https://www.youtube.com/watch?v=cE7G7QWEfh4
 
